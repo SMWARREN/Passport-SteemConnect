@@ -1,0 +1,21 @@
+{
+  "name": "passport-steemconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Warren <Sean.Warren@gmail.com> (http://www.doyoubelieve.me)",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "oauth": "0.9.x",
+    "passport-strategy": "1.x.x",
+    "uid2": "0.0.x",
+    "utils-merge": "1.x.x"
+  }
+}
