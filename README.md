@@ -73,7 +73,7 @@ app.get('/auth/example/callback',
 ```
 
 ## Related Modules
-- [passport-google-oauth2] (https://github.com/mstade/passport-google-oauth2) Google (OAuth 2.0) authentication strategy for Passport and Node.js.
+- [passport-google-oauth2](https://github.com/mstade/passport-google-oauth2) Google (OAuth 2.0) authentication strategy for Passport and Node.js.
 - [passport-oauth1](https://github.com/jaredhanson/passport-oauth1) — OAuth 1.0 authentication strategy
 - [passport-http-bearer](https://github.com/jaredhanson/passport-http-bearer) — Bearer token authentication strategy for APIs
 - [OAuth2orize](https://github.com/jaredhanson/oauth2orize) — OAuth 2.0 authorization server toolkit
