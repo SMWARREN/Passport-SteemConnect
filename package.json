@@ -1,6 +1,6 @@
 {
   "name": "passport-steemconnect",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "",
   "main": "./lib/index.js",
   "directories": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SMWARREN/Passport-SteemConnect.git"
   },
   "author": "Sean Warren <Sean.Warren@gmail.com> (http://www.doyoubelieve.me)",
   "license": "MIT",
