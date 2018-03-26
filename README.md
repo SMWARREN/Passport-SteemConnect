@@ -54,7 +54,7 @@ and calls `cb` providing a user.
 
 #### Authenticate Requests
 
-Use `passport.authenticate()`, specifying the `'oauth2'` strategy, to
+Use `passport.authenticate()`, specifying the `'steemconnect'` strategy, to
 authenticate requests.
 
 For example, as route middleware in an [Express](http://expressjs.com/)
@@ -78,12 +78,8 @@ app.get('/auth/example/callback',
 - [passport-http-bearer](https://github.com/jaredhanson/passport-http-bearer) — Bearer token authentication strategy for APIs
 - [OAuth2orize](https://github.com/jaredhanson/oauth2orize) — OAuth 2.0 authorization server toolkit
 
-## Contributing
-
-
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018 Sean Warren <[http://doyoubelieve.me/](http://doyoubelieve.me/)
-
+Copyright (c) 2018 Sean Warren [http://doyoubelieve.me/](http://doyoubelieve.me)

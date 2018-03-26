@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sean Warren <Sean.Warren@gmail.com> (http://www.doyoubelieve.me)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "oauth": "0.9.x",
