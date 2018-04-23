@@ -38,7 +38,7 @@ and calls `cb` providing a user.
  *
  *     passport.use(new SteemConnectStrategy({
  *         authorizationURL: 'https://steemconnect.com/oauth2/authorize',
- *         tokenURL: 'https://steemconnect.com/oauth2/token',
+ *         tokenURL: 'https://steemconnect.com/api/oauth2/token',
  *         clientID: '123-456-789',
  *         clientSecret: 'shhh-its-a-secret',
  *         callbackURL: 'http://localhost:3000/auth/oauth/steemconnect/callback',
